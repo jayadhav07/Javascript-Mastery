@@ -1,59 +1,35 @@
-# 🚀 JavaScript Mastery in 20 Days  
+# 🌟 JavaScript Mastery – 20 Days Roadmap
 
-This repository contains my **20-day structured journey** to master JavaScript (with just 2 hours/day).  
-It covers all **core + advanced concepts**, mini-projects, and ends with a **capstone project (Weather App)**.  
-
----
-
-## 📅 Roadmap  
-
-| Day | Topic | Folder |
-|-----|--------|---------|
-| 01 | Execution Context & Hoisting | [Day01](./Day01) |
-| 02 | Functions & Higher-Order Functions | [Day02](./Day02) |
-| 03 | Closures | [Day03](./Day03) |
-| 04 | this, bind/call/apply + Polyfills | [Day04](./Day04) |
-| 05 | Objects & Prototypes | [Day05](./Day05) |
-| 06 | Deep vs Shallow Copy | [Day06](./Day06) |
-| 07 | ES6+ Features | [Day07](./Day07) |
-| 08 | Event Loop Basics | [Day08](./Day08) |
-| 09 | Promises | [Day09](./Day09) |
-| 10 | Async/Await | [Day10](./Day10) |
-| 11 | Promise Combinators | [Day11](./Day11) |
-| 12 | Iterators & Generators | [Day12](./Day12) |
-| 13 | Advanced Async (AbortController etc.) | [Day13](./Day13) |
-| 14 | DOM Basics | [Day14](./Day14) |
-| 15 | Events & Delegation | [Day15](./Day15) |
-| 16 | Web Storage | [Day16](./Day16) |
-| 17 | Performance (Debounce & Throttle) | [Day17](./Day17) |
-| 18 | Functional Programming | [Day18](./Day18) |
-| 19 | Error Handling | [Day19](./Day19) |
-| 20 | Capstone Project: Weather App 🌦️ | [Day20](./Day20) |
+Welcome! This repository is designed to help you **master JavaScript in 20 days** (2 hrs/day) with concise notes, working examples, and mini-projects. Each day focuses on a core concept or modern JS feature.
 
 ---
 
-## ⚡ Final Capstone Project: Weather App  
+## 📚 Roadmap
 
-🔹 Features:  
-- Fetch weather data using **Fetch API + Async/Await**  
-- Error handling for invalid inputs  
-- **Debounced city search**  
-- Save last searched city in **LocalStorage**  
-- Deployed on GitHub Pages / Vercel  
+| Day | Topic | Mini Project / Practice |
+|-----|-------|------------------------|
+| 01 | Execution Context & Hoisting | Simulate call stack & hoisting examples |
+| 02 | Functions & Higher Order Functions | Custom map/filter/reduce + HOF examples |
+| 03 | Closures | Counter & once() function |
+| 04 | this, call, apply, bind | Bind a function to multiple objects |
+| 05 | Objects & Prototypes | Person → Student inheritance |
+| 06 | Deep vs Shallow Copy | Clone nested objects and test changes |
+| 07 | ES6+ Features | Destructuring, spread, arrow functions |
+| 08 | Event Loop | Promise vs setTimeout execution order |
+| 09 | Promises | Fake async API with chaining |
+| 10 | Async / Await | Fetch API & error handling |
+| 11 | Promise Combinators | Promise.all, Promise.race |
+| 12 | Iterators & Generators | Infinite counter & custom iterable |
+| 13 | Advanced Async | AbortController & fetch timeout |
+| 14 | DOM Basics | Todo list creation (browser) |
+| 15 | Events & Delegation | Event delegation for dynamic elements |
+| 16 | Web Storage | Persist form data with localStorage |
+| 17 | Debounce & Throttle | Debounced search input & throttle function |
+| 18 | Functional Programming | Currying, compose, pure functions |
+| 19 | Error Handling | Safe JSON parser & custom errors |
+| 20 | Final Concepts & Review | Revisit utilities & interview prep |
 
 ---
 
-## 🛠 Tech Stack
-- JavaScript (ES6+)  
-- HTML5, CSS3  
+## 📂 Folder Structure
 
----
-
-## 📌 Goal  
-At the end of 20 days, I’ll have:  
-✅ Strong grasp of **core + advanced JavaScript**  
-✅ 10+ mini-projects  
-✅ 1 Capstone Project (deployed)  
-✅ A portfolio-ready GitHub repo for recruiters  
-
----
