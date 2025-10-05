@@ -82,9 +82,9 @@ console.log("Event delegation example provided as browser snippet.");
 // );
 
 // event delegation
-document.querySelector(".products").addEventListener("click", (e) => {
-  console.log(e.target.tagName);
-  if (e.target.tagName === "SPAN") {
-    window.location.href += "/" + e.target.className;
-  }
-});
+// document.querySelector(".products").addEventListener("click", (e) => {
+//   console.log(e.target.tagName);
+//   if (e.target.tagName === "SPAN") {
+//     window.location.href += "/" + e.target.className;
+//   }
+// });

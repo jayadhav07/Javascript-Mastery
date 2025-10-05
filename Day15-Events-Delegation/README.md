@@ -3,7 +3,7 @@
 ## 📖 Topics
 
 - addEventListener
-- Event bubbling, delegation,capturing, event.target, event.currentTarget, propgation,
+- Event bubbling, delegation,capturing, event.target, event.currentTarget, propgation, currying
 - Hot to stop capturing and bubbling
 
 => when and in which derection the event will be executed is known as event propagation

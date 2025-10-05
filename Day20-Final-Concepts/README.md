@@ -1,14 +1,3 @@
 # 📘 Day 20 – Final Concepts & Review
 
-## 📖 Topics
-- Review of all previous topics
-- Common interview patterns & quick cheatsheets
-
-## 👨‍💻 Practice
-- Revisit tough topics and finalize code samples
-
-## 🚀 Mini Task
-Prepare a README summary and pin top 3 projects to GitHub.
-
-## 🧠 Summary
-- Solidify concepts and prepare portfolio.
+=> Currying is a function that takes one argument at a time and returns a new function expecting the next argument. It is a conversion of functions from callable as f(a,b,c)into callable as f(a)(b)(c).
